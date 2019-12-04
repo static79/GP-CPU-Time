@@ -71,7 +71,7 @@
 
 
        Procedure Division
-           entry "ELLV0127".
+           entry "GPCPUtime".
        Main section.
            evaluate OP-CODE
               when "OPEN"
